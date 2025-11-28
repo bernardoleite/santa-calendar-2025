@@ -1,8 +1,8 @@
 // Set to true to enable test mode with a mock date
-const useMockDate = false;
+const useMockDate = true;
 
-// Define a mock date (e.g., testing November 1, 2024)
-const mockDate = new Date(2024, 10, 1); // Months are 0-based, so 11 is December
+// Define a mock date (e.g., testing December 1, 2025)
+const mockDate = new Date(2025, 11, 1); // Months are 0-based, so 11 is December
 
 // Use the mock date if test mode is enabled; otherwise, use the real date
 const currentDate = useMockDate ? mockDate : new Date();
@@ -53,9 +53,9 @@ function getPrize(day) {
         case 4:
             return "Dia 4 (🎁)! A maior prenda da vida és tu!";
         case 5:
-            return "Dia 5! A carregar mensagem...";
+            return "Dia 5 (❤️)! O Natal é a época de aquecer corações. Espalha alegria hoje!";
         case 6:
-            return "Dia 6 (❤️)! O Natal é a época de aquecer corações. Espalha alegria hoje!";
+            return "Dia 6! A carregar mensagem...";
         case 7:
             return "Dia 7! A carregar mensagem...";
         case 8:
@@ -129,7 +129,7 @@ function initCalendar() {
     // Adiciona ouvinte de evento para cada porta
     doors.forEach((door, index) => {
         door.addEventListener('click', function () {
-            const doorYear = 2024;
+            const doorYear = 2025;
             const doorMonth = 12;
             const doorDay = index + 1;
             const doorDate = new Date(doorYear, doorMonth - 1, doorDay);
