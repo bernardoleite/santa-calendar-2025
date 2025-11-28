@@ -1,5 +1,5 @@
 // Set to true to enable test mode with a mock date
-const useMockDate = true;
+const useMockDate = false;
 
 // Define a mock date (e.g., testing December 1, 2025)
 const mockDate = new Date(2025, 11, 1); // Months are 0-based, so 11 is December
