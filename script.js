@@ -55,7 +55,7 @@ function getPrize(day) {
         case 5:
             return "Dia 5 (❤️)! O Natal é a época de aquecer corações. Espalha alegria hoje!";
         case 6:
-            return "Dia 6! A carregar mensagem...";
+            return "Dia 6 (✨)! Às vezes basta um sorriso para iluminar o dia inteiro!";
         case 7:
             return "Dia 7! A carregar mensagem...";
         case 8:
