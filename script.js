@@ -61,7 +61,7 @@ function getPrize(day) {
         case 8:
             return "Dia 8 (📷)! Há uma certa magia em partilhar fotografias e recordar quem já fomos. Partilha e sente o encanto!";
         case 9:
-            return "Dia 9! A carregar mensagem...";
+            return "Dia 9 (☀️)! Começa o dia com energia e deixa que o resto aconteça!";
         case 10:
             return "Dia 10! A carregar mensagem...";
         case 11:
