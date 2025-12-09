@@ -63,7 +63,7 @@ function getPrize(day) {
         case 9:
             return "Dia 9 (☀️)! Começa o dia com energia e deixa que o resto aconteça!";
         case 10:
-            return "Dia 10! A carregar mensagem...";
+            return 'Dia 10 (🌼)! Um simples "bom dia" pode fazer a diferença. Já disseste "bom dia" a alguém especial hoje?'
         case 11:
             return "Dia 11 (🫂)! Existem amigos que são casa. Abraça os teus!";
         case 12:
