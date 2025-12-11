@@ -67,7 +67,7 @@ function getPrize(day) {
         case 11:
             return "Dia 11 (🫂)! Existem amigos que são casa. Abraça os teus!";
         case 12:
-            return "Dia 12! A carregar mensagem...";
+            return "Dia 12 (🌊)! Tal como o mar, a vida traz novas ondas. Algumas chegam com uma magia especial. Já foste ver o mar esta semana?";
         case 13:
             return "Dia 13! A carregar mensagem...";
         case 14:
