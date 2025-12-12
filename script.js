@@ -69,7 +69,7 @@ function getPrize(day) {
         case 12:
             return "Dia 12 (🌊)! Tal como o mar, a vida traz novas ondas. Algumas chegam com uma magia especial. Já foste ver o mar esta semana?";
         case 13:
-            return "Dia 13! A carregar mensagem...";
+            return "Dia 13 (💡)! Tal como no pinheirinho, cada pessoa carrega uma luz própria. Já deixaste a tua brilhar hoje?";
         case 14:
             return "Dia 14! A carregar mensagem...";
         case 15:
