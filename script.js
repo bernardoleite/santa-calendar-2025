@@ -73,11 +73,11 @@ function getPrize(day) {
         case 14:
             return "Dia 14 (🛋️)! Domingo combina com conforto e tranquilidade. Já aproveitaste o teu com quem gostas?";
         case 15:
-            return "Dia 15 (💍)! Laços de amizade são como anéis moldados no fogo — duradouros, valiosos e únicos. Celebra a amizade!";
+            return "Dia 15 (🧸)! O Natal também é lembrar a criança que ainda vive em nós. Já a deixaste aparecer hoje?";
         case 16:
-            return "Dia 16! A carregar mensagem...";
+            return "Dia 16 (💙)! Existem dias frios que ficam quentes na memória. Já tiveste um assim?";
         case 17:
-            return "Dia 17! A carregar mensagem...";
+            return "Dia 17 (💍)! Laços de amizade são como anéis moldados no fogo - duradouros, valiosos e únicos. Celebra a amizade!";
         case 18:
             return "Dia 18! A carregar mensagem...";
         case 19:
