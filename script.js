@@ -77,7 +77,7 @@ function getPrize(day) {
         case 16:
             return "Dia 16 (💙)! Existem dias frios que ficam quentes na memória. Já tiveste um assim?";
         case 17:
-            return "Dia 17! A carregar mensagem...";
+            return "Dia 17 (💭)! Já sonhaste hoje? Atreve-te a sonhar e a acreditar!";
         case 18:
             return "Dia 18! A carregar mensagem...";
         case 19:
