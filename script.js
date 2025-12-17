@@ -79,7 +79,7 @@ function getPrize(day) {
         case 17:
             return "Dia 17 (💭)! Já sonhaste hoje? Atreve-te a sonhar e a acreditar!";
         case 18:
-            return "Dia 18! A carregar mensagem...";
+            return "Dia 18 (🔋)! Quando a bateria falha, o importante é não deixar faltar a boa energia!";
         case 19:
             return "Dia 19! A carregar mensagem...";
         case 20:
