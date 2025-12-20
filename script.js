@@ -85,7 +85,7 @@ function getPrize(day) {
         case 20:
             return "Dia 20 (💃)! A dança é uma forma bonita de deixar o corpo falar. Já dançaste hoje?";
         case 21:
-            return "Dia 21! A carregar mensagem...";
+            return "Dia 21 (🌧️)! Há dias em que a chuva combina perfeitamente com bons momentos. Já sentiste isso?";
         case 22:
             return "Dia 22! A carregar mensagem...";
         case 23:
