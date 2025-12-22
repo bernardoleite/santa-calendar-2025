@@ -89,7 +89,7 @@ function getPrize(day) {
         case 22:
             return "Dia 22 (💫)! Mesmo à distância, há laços que continuam fortes. Já sentiste isso?";
         case 23:
-            return "Dia 23! A carregar mensagem...";
+            return "Dia 23 (⏳)! A véspera da véspera também merece ser apreciada. Já estás nesse espírito?";
         case 24:
             return "Dia 24! A carregar mensagem...";
         default:
