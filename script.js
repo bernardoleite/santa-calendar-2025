@@ -91,7 +91,7 @@ function getPrize(day) {
         case 23:
             return "Dia 23 (⏳)! A véspera da véspera também merece ser apreciada. Já estás nesse espírito?";
         case 24:
-            return "Dia 24! A carregar mensagem...";
+            return "Dia 24 (🎄)! Era uma vez um menino e uma menina que se cruzaram à beira-mar, apanharam chuva e foram lanchar. Sem darem por isso, o destino começou a repetir encontros. No Natal, às vezes, a magia começa assim: simples e verdadeira. Feliz Natal!";
         default:
             return "Nada aqui hoje.";
     }
